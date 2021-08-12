@@ -5,6 +5,7 @@ nav {
   margin: 0 auto;
   display: flex;
   justify-content: center;
+  box-shadow: -1px 2px 30px #cccccc;
   top: 0;
   z-index: 1;
 }
